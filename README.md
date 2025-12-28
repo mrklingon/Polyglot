@@ -1,7 +1,7 @@
 # Polyglot
 Rewrite quotes in "alien" dialects
 
-This project is spun off of an earlier one, "Babel" that generates alien lanuage words based on a rule set. The words *resemble* Wookie, Klingon, Vulcan, Romulan and Mando'a language vocabulary from Star Wars and Star Trek. The words created might actually be words in those languages - but for this program they are created randomly.
+This project is spun off of an earlier one, "Babel" that generates alien language words based on a rule set. The words *resemble* Wookie, Klingon, Vulcan, Romulan and Mando'a language vocabulary from Star Wars and Star Trek. The words created might actually be words in those languages - but for this program they are created randomly.
 
 A Carl Sagan quote (from the "sagan" file) is selected and printed, and each unique word is assigned one of the generated words, then the quote is displayed "translated" into the alien dialect. NOTE: this *absolutely* not a real translation, just a fun exercise in generating alien text.
 
